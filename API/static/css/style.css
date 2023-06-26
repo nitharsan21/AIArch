@@ -1,0 +1,15 @@
+.slogan {
+    color: #cae1ff;
+}
+
+.formulaire {
+    background-color: #cae1ff;
+    border-radius: 30px;
+}
+
+.formulaire2 {
+    padding-left: 2%;
+    background-image: url("/static/image/background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}

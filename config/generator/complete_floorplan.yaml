@@ -1,0 +1,7 @@
+settings:
+  models_directory: 'C:/Users/nitha/PycharmProjects/AIArch/generator_models/models/bicyclegan/complete_floorplan/'
+  categories: [
+      'single_floor',
+  ]
+  input_shape: (256, 256, 3)
+  latent_vector: 8
